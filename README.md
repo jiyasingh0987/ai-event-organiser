@@ -98,18 +98,4 @@ npx convex dev
 * **Jiya:** Team Lead, GitHub deployment, frontend development
 * **Vidhi:** UI design, event management features, testing
 
----
-
-## ✅ **Status**
-
-Project completed and ready for submission.
-
----
-
-If you'd like, I can also prepare:
-
-✅ A professional **PPT outline**
-✅ A **project abstract (100–150 words)**
-✅ A **viva question-answer guide**
-
-Just tell me!
+--
